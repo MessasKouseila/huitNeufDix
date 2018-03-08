@@ -11,6 +11,7 @@ const Stylelist = StackNavigator({
     screen: Login,
     navigationOptions: ({ navigation }) => ({
       header: null,
+      title: 'Login',
     }),
   },
   Home: {

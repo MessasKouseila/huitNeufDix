@@ -3,10 +3,6 @@ import {StyleSheet, Text, View} from 'react-native';
 
 export default class ListOrders extends React.Component {
 
-  static navigationOptions = {
-    title: 'ListOrders',
-  };
-
   constructor(props) {
     super(props);
   }
